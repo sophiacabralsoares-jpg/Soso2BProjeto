@@ -4,8 +4,11 @@ h1{
 
 p{
     color: palevioletred;
+    font-family: Arial, sans-serif;
+    font-weight: bold;              
 }
 
+
 body{
-    background-color: mediumorchid; text-align: center;
+    background-color: mediumorchid; text-align: center; font-family: Arial, sans-serif;
 }
