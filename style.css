@@ -3,7 +3,7 @@ h1{
 }
 
 p{
-    color: palevioletred;
+    color: #5b42dc;
     font-family: Arial, sans-serif;
     font-weight: bold;              
 }
@@ -11,4 +11,35 @@ p{
 
 body{
     background-color: mediumorchid; text-align: center; font-family: Arial, sans-serif;
+}
+
+.container{
+    padding: 20px;
+    margin: 90px;
+    color: #f0f0f0;
+    width: 300px;
+}
+
+.flex-box {
+    display: flex;
+    background-color: #0085d2; 
+    padding: 20px;
+    border: 2px solid #1575ac;
+    color: #0a0fac;
+}
+
+.inline-block {
+    display: inline-block;
+    background-color: #b961f4; 
+    padding: 20px;
+    border: 2px solid #9414ea;
+    color: #662294;
+}
+
+.float-left {
+    float: left;
+    background-color: #950619; 
+    padding: 20px;
+    border: 2px solid #df1f38;
+    color: #560404;
 }
